@@ -1,8 +1,10 @@
+import Form from "./Component/Form"
+
 function App() {
 
   return (
-    <div className="text-red-800">
-      App
+    <div className="flex justify-center">
+      <Form />
     </div>
   )
 }
