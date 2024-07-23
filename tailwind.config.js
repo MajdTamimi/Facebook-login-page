@@ -6,6 +6,9 @@ export default {
   ],
   theme: {
     extend: {},
+    fontFamily: {
+      sfPro: ['SFProDisplay-Regular', 'Helvetica', 'Arial', 'sans-serif'],
+    },
   },
   plugins: [],
 }
