@@ -1,4 +1,5 @@
 const footer = () => {
+  
   return (
     <footer className="text-[#1c1e21] pl-10 lg:text-start pt-8 lg:pt-7">
       <div className="max-w-[980px] mx-auto w-[1513px] h-[157px]">
@@ -9,8 +10,7 @@ const footer = () => {
           <a href="#" className="text-[#8A8d91] font-custom text-[12px] font-inherit hover:underline mr-2">Deutsch</a>
           <a href="#" className="text-[#8A8d91] font-custom text-[12px] font-inherit hover:underline mr-2">Русский</a>
           <a href="#" className="text-[#8A8d91] font-custom text-[12px] font-inherit hover:underline mr-2">עברית</a>
-          <a href="#" className="text-[#8A8d91] font-custom text-[12px] font-inherit hover:underline mr-2">Bahasa Indonesia
-          </a>
+          <a href="#" className="text-[#8A8d91] font-custom text-[12px] font-inherit hover:underline mr-2">Bahasa Indonesia</a>
           <a href="#" className="text-[#8A8d91] font-custom text-[12px] font-inherit hover:underline mr-2">Español</a>
           <a href="#" className="text-[#8A8d91] font-custom text-[12px] font-inherit hover:underline mr-2">Português (Brasil)</a>
           <a href="#" className="text-[#8A8d91] font-custom text-[12px] font-inherit hover:underline mr-2">Italiano</a>
@@ -18,11 +18,11 @@ const footer = () => {
           <a role="button" className="inline-block cursor-pointer list-none border border-[#ccd0d5] rounded-[2px] box-border mx-2 font-bold antialiased justify-center px-[8px] text-center text-[#8a8d91] bg-[#f5f6f7] duration-200 hover:bg-[#ebecec]" rel="dialog" href="#" title="Show more languages">
             <i className="inline-block cursor-pointer antialiased font-bold text-center leading-[18px] text-[#8a8d91] whitespace-nowrap relative bottom-[1px] align-middle"
               style={{
-                backgroundImage: 'url(https://static.xx.fbcdn.net/rsrc.php/v3/yZ/r/YwPTeE82t1h.png)',
-                backgroundPosition: '-66px -35px',
-                width: '12px',
-                height: '12px',
-                textShadow: 'none'
+                backgroundImage: "url(https://static.xx.fbcdn.net/rsrc.php/v3/yZ/r/YwPTeE82t1h.png)",
+                backgroundPosition: "-66px -35px",
+                width: "12px",
+                height: "12px",
+                textShadow: "none"
               }}></i>
           </a>
         </div>
@@ -55,14 +55,13 @@ const footer = () => {
           <a href="#" className="text-[#8A8d91] font-custom text-[12px] font-inherit hover:underline mr-4">Careers</a>
           <a href="#" className="text-[#8A8d91] font-custom text-[12px] font-inherit hover:underline mr-4">Cookies</a>
           <a href="#" className="text-[#8A8d91] font-custom text-[12px] font-inherit hover:underline">Ad choices</a>
-          <a href="#"
-            className="inline-block text-[12px] leading-[1.6] cursor-pointer whitespace-nowrap text-[#8a8d91] relative top-[1px] align-middle mr-4"
+          <a href="#" className="inline-block text-[12px] leading-[1.6] cursor-pointer whitespace-nowrap text-[#8a8d91] relative top-[1px] align-middle mr-4"
             style={{
-              backgroundImage: 'url(https://static.xx.fbcdn.net/rsrc.php/v3/yZ/r/YwPTeE82t1h.png)',
-              backgroundPosition: '-21px -35px',
-              height: '16px',
-              width: '16px',
-              fontFamily: 'inherit',
+              backgroundImage: "url(https://static.xx.fbcdn.net/rsrc.php/v3/yZ/r/YwPTeE82t1h.png)",
+              backgroundPosition: "-21px -35px",
+              height: "16px",
+              width: "16px",
+              fontFamily: "inherit",
             }}>
           </a>
           <a href="#" className="text-[#8A8d91] font-custom text-[12px] font-inherit hover:underline mr-4">Terms</a>

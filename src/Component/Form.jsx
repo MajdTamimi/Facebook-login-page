@@ -1,5 +1,5 @@
-
 const Form = () => {
+  
   return (
     <div className="h-[456px] w-[396px]">
       <div className="flex items-center bg-white rounded-[8px] shadow-[0_2px_4px_rgba(0,0,0,0.1),0_8px_16px_rgba(0,0,0,0.1)] box-border mt-[40px] pt-[10px] pb-[24px] w-[396px] text-center">
@@ -18,7 +18,7 @@ const Form = () => {
             </button>
           </div>
           <div className="text-[12px] text-center mt-[16px]">
-            <a href="" className="text-center cursor-pointer text-[#0866ff] text-[14px] font-medium hover:underline font-sfPro">Forgot password?</a>
+            <a href="#" className="text-center cursor-pointer text-[#0866ff] text-[14px] font-medium hover:underline font-sfPro">Forgot password?</a>
           </div>
           <div className="text-[12px] flex items-center border-b border-[#dadde1] my-[20px] mx-[16px] text-center"></div>
           <div className="text-[12px] text-center pt-[6px]">
