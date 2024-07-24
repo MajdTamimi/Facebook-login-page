@@ -1,8 +1,8 @@
 const footer = () => {
   return (
-    <footer className="text-[#1c1e21] text-start py-6">
+    <footer className="text-[#1c1e21] pl-10 lg:text-start pt-8 lg:pt-7">
       <div className="max-w-[980px] mx-auto w-[1513px] h-[157px]">
-        <div className="text-[12px] font-inherit w-[980px] h-[28px]">
+        <div className="text-[12px] font-inherit w-[684px] lg:w-[980px] h-[28px]">
           <a href="#" className="text-[#8A8d91] font-custom text-[12px] font-inherit hover:underline mr-2">English (US)</a>
           <a href="#" className="text-[#8A8d91] font-custom text-[12px] font-inherit hover:underline mr-2">العربية</a>
           <a href="#" className="text-[#8A8d91] font-custom text-[12px] font-inherit hover:underline mr-2">Français (France)</a>
@@ -26,8 +26,8 @@ const footer = () => {
               }}></i>
           </a>
         </div>
-        <hr className="pb-2 mt-1" />
-        <div className="text-[12px] font-inherit w-[950px] h-[58px] flex flex-wrap">
+        <hr className="pb-2 lg:mt-1 mt-4" />
+        <div className="text-[12px] font-inherit w-[650px] lg:w-[950px] h-[58px] flex flex-wrap">
           <a href="#" className="text-[#8A8d91] font-custom text-[12px] font-inherit hover:underline mr-4">Sign Up</a>
           <a href="#" className="text-[#8A8d91] font-custom text-[12px] font-inherit hover:underline mr-4">Log In</a>
           <a href="#" className="text-[#8A8d91] font-custom text-[12px] font-inherit hover:underline mr-4">Messenger</a>
