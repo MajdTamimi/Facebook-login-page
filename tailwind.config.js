@@ -8,6 +8,7 @@ export default {
     extend: {},
     fontFamily: {
       sfPro: ['SFProDisplay-Regular', 'Helvetica', 'Arial', 'sans-serif'],
+      custom: ['Helvetica', 'Arial', 'sans-serif'],
     },
   },
   plugins: [],

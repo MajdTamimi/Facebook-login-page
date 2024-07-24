@@ -1,7 +1,9 @@
 import Form from "../component/Form"
+import Footer from "../component/Footer"
 
 const login = () => {
   return (
+    <>
     <div>
       <div className="bg-[#f0f2f5] flex min-w-[500px] pb-[112px] pt-[72px] w-[1512px] h-[710px] justify-center gap-20 items-start">
         <div className="">
@@ -13,6 +15,8 @@ const login = () => {
         <Form />
       </div>
     </div>
+    <Footer /> 
+    </>
   )
 }
 export default login
