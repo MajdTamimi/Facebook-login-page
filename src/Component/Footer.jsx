@@ -16,14 +16,7 @@ const footer = () => {
           <a href="#" className="text-[#8A8d91] font-custom text-[12px] font-inherit hover:underline mr-2">Italiano</a>
           <a href="#" className="text-[#8A8d91] font-custom text-[12px] font-inherit hover:underline">हिन्दी</a>
           <a role="button" className="inline-block cursor-pointer list-none border border-[#ccd0d5] rounded-[2px] box-border mx-2 font-bold antialiased justify-center px-[8px] text-center text-[#8a8d91] bg-[#f5f6f7] duration-200 hover:bg-[#ebecec]" rel="dialog" href="#" title="Show more languages">
-            <i className="inline-block cursor-pointer antialiased font-bold text-center leading-[18px] text-[#8a8d91] whitespace-nowrap relative bottom-[1px] align-middle"
-              style={{
-                backgroundImage: "url(https://static.xx.fbcdn.net/rsrc.php/v3/yZ/r/YwPTeE82t1h.png)",
-                backgroundPosition: "-66px -35px",
-                width: "12px",
-                height: "12px",
-                textShadow: "none"
-              }}></i>
+            <i className="inline-block cursor-pointer antialiased font-bold text-center leading-[18px] text-[#8a8d91] whitespace-nowrap relative bottom-[1px] align-middle icon-1"></i>
           </a>
         </div>
         <hr className="pb-2 lg:mt-1 mt-4" />
@@ -55,15 +48,7 @@ const footer = () => {
           <a href="#" className="text-[#8A8d91] font-custom text-[12px] font-inherit hover:underline mr-4">Careers</a>
           <a href="#" className="text-[#8A8d91] font-custom text-[12px] font-inherit hover:underline mr-4">Cookies</a>
           <a href="#" className="text-[#8A8d91] font-custom text-[12px] font-inherit hover:underline">Ad choices</a>
-          <a href="#" className="inline-block text-[12px] leading-[1.6] cursor-pointer whitespace-nowrap text-[#8a8d91] relative top-[1px] align-middle mr-4"
-            style={{
-              backgroundImage: "url(https://static.xx.fbcdn.net/rsrc.php/v3/yZ/r/YwPTeE82t1h.png)",
-              backgroundPosition: "-21px -35px",
-              height: "16px",
-              width: "16px",
-              fontFamily: "inherit",
-            }}>
-          </a>
+          <a href="#" className="inline-block text-[12px] leading-[1.6] cursor-pointer whitespace-nowrap text-[#8a8d91] relative top-[1px] align-middle mr-4 icon-2"></a>
           <a href="#" className="text-[#8A8d91] font-custom text-[12px] font-inherit hover:underline mr-4">Terms</a>
           <a href="#" className="text-[#8A8d91] font-custom text-[12px] font-inherit hover:underline mr-4">Help</a>
           <a href="#" className="text-[#8A8d91] font-custom text-[12px] font-inherit hover:underline mr-4">Contact Uploading & Non-UsersSettings</a>
